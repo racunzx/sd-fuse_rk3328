@@ -55,3 +55,4 @@ You can use dd to burn this file into an sd card:
 ```
 dd if=out/rk3328-sd-friendlycore-bionic-4.4-arm64-20181112.img of=/dev/sdX bs=1M
 ```
+...
